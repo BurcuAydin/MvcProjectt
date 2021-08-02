@@ -8,3 +8,4 @@ ASP.NET MVC Project / Murat Yücedağ
 
 <li> BusinessLayer'a deneme amaçlı kurallar yazıldı. Bootstrap ile basit bir tablo oluşturuldu ve kategorilerin listelenmesi sağlandı.</li>
 <li> BusinessLayer katmanında abstract klasörü altında ICategoryService oluşturuldu. ICategoryManager'da constructor business method oluşturuldu. </li>
+<li> DataAccess katmanında Entity Framework klasörü ve classları oluşturuldu.</li>
