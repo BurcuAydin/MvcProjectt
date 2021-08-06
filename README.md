@@ -11,8 +11,7 @@ ASP.NET MVC Project / Murat Yücedağ
 <li> DataAccess katmanında Entity Framework klasörü ve classları oluşturuldu.</li>
 <li> Fluent Validation kuruldu. </li>
 
-<li>Sertifika Görevi Statistic</li>
-![sertifika](https://user-images.githubusercontent.com/40796026/128514621-16911a17-ac02-4c84-b4e8-d94e8668cac7.png)
+
 
 
 
