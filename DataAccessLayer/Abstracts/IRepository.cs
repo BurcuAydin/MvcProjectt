@@ -12,6 +12,8 @@ namespace DataAccessLayer.Abstracts
         List<T> List();
 
         void Add(T t);
+
+        T GetById(Expression<Func<T, bool>> filter);
         void Delete(T t);
         void Update(T t);
 
