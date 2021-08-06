@@ -12,5 +12,6 @@ ASP.NET MVC Project / Murat Yücedağ
 <li> Fluent Validation kuruldu. </li>
 
 <li>Sertifika Görevi Statistic</li>
-![sertifika](https://user-images.githubusercontent.com/40796026/128513691-7b5b8d63-b0d8-4484-887e-217a1f53edcc.png)
+![sertifika](https://user-images.githubusercontent.com/40796026/128513863-bade8498-e241-4ff8-932b-8a436b89e7f4.png)
+
 
