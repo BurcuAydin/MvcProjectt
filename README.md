@@ -10,3 +10,7 @@ ASP.NET MVC Project / Murat Yücedağ
 <li> BusinessLayer katmanında abstract klasörü altında ICategoryService oluşturuldu. ICategoryManager'da constructor business method oluşturuldu. </li>
 <li> DataAccess katmanında Entity Framework klasörü ve classları oluşturuldu.</li>
 <li> Fluent Validation kuruldu. </li>
+
+<li>Sertifika Görevi Statistic</li>
+![sertifika](https://user-images.githubusercontent.com/40796026/128513691-7b5b8d63-b0d8-4484-887e-217a1f53edcc.png)
+
