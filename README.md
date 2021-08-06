@@ -12,6 +12,7 @@ ASP.NET MVC Project / Murat Yücedağ
 <li> Fluent Validation kuruldu. </li>
 
 <li>Sertifika Görevi Statistic</li>
+https://github.com/BurcuAydin/MvcProjectt/issues/1#issue-962719318
 
 
 
